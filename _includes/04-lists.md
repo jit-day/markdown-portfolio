@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* The Eye of the World
+* The Great Hunt
+* The Dragon Reborn
